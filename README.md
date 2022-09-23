@@ -2,6 +2,10 @@
 
 ## Segmentação de Deformações da Próstata com Deep Learning
 
+OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
+
+- <a href="https://nbviewer.org/github/Julio-M39/12-Segmentation_Prostate_Deformations_with_Deep_Learning/blob/main/Segmenta%C3%A7%C3%A3o%20de%20Deforma%C3%A7%C3%B5es%20da%20Pr%C3%B3stata.ipynb">Clique aqui!</a> 
+
 ### Definição do Projeto
 
 <div>
