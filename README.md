@@ -36,3 +36,17 @@ https://promise12.grand-challenge.org/
 - Visualizando Imagens e Máscaras
 - Modelagem da Arquitetura U-Net
 - Avaliação do Modelo
+
+### Resultados
+
+| DICE   | IOU     | Sensibilidade | Especificidade | Acurácia | AUC | Precisão | Fscore |
+| ------ | ------- | ------------- | -------------- | -------- | --- | -------- | ------ |
+|  91 %  |   84 %  | 92 %          | 100 %          | 100 %    | 96 %| 91 %     | 91 %   |
+
+**Resultados Visuais**
+
+Na imagem abaixo podemos ver os resultados visuais para a segmentação de deformações na próstata.
+
+<div>
+<img src="https://user-images.githubusercontent.com/54995990/192004341-b2f87cdd-39f2-44e8-9ccc-0ea9f98ea471.png" width="600px" />
+</div>
